@@ -26,7 +26,7 @@ To install and run MousEyeNav on your system, follow these steps:
 
 2. Clone the repository to your local system:
    ```
-   git clone https://github.com/your-username/MousEyeNav.git
+   git clone https://github.com/pruthakjani5/MousEyeNav.git
    ```
 
 3. Navigate to the project directory:
@@ -79,6 +79,6 @@ This project was made possible by the contributions of various open-source libra
 
 ## Disclaimer
 
-MousEyeNav is an experimental project and should not be used as a primary means of computer interaction. Use it responsibly and be aware of any limitations or potential inaccuracies in facial landmark detection and hand gesture recognition. The project developers are not liable for any damages or consequences arising from using MousEyeNav.
+MousEyeNav is an experimental project and should not be used as a primary means of computer interaction. Use it responsibly and be aware of any limitations or potential inaccuracies in facial landmark detection and random clicks due to normal blinking. The project developers are not liable for any damages or consequences arising from using MousEyeNav.
 
 **Note:** This project is intended for educational and demonstration purposes only.
